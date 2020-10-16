@@ -1,0 +1,62 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+body{
+	height: 100%;
+	font-family: 'Noto Sans JP', sans-serif;
+	width: 100%;
+}
+.navbar{
+	background-color: rgb(37, 19, 10, 1);
+}
+.navbar-toggler:focus{
+	outline: none;
+
+}
+.backgroundimg{
+	background-image: url(../img/portfolio7.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+.backgroundimg a:hover{
+text-decoration: none;
+}
+.fondoPrincipal{	
+	background-color: rgb(37, 19, 10, 0.7);
+}
+.miFondo{
+	/*background-image: url(..img/fondoMadera.jpg);*/
+	background-image: url(../img/fondoMadera.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	height: auto;
+
+}
+.miFondo .col{
+background-color:rgb(37, 19, 10, 0.9) ;
+}
+
+.bg-contacto{
+	background-image: url(../img/contacto2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	height: 40vh;
+	/* width: 100%; */
+	margin: auto;
+}
+.bg-contactocol{
+
+	background-color:rgb(37, 19, 10, 0.5);
+	height: 60%;
+}
+footer{
+	height: 8rem;
+	width: 100% !important;
+	background-color: rgb(37, 19, 10, 0.9);
+}
