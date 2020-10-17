@@ -53,7 +53,7 @@ background-color:rgb(37, 19, 10, 0.9) ;
 .bg-contactocol{
 
 	background-color:rgb(37, 19, 10, 0.5);
-	height: 60%;
+	height: auto;
 }
 footer{
 	height: 8rem;
