@@ -30,13 +30,16 @@ text-decoration: none;
 }
 .miFondo{
 	/*background-image: url(..img/fondoMadera.jpg);*/
-	background-image: url(../img/fondoMadera.jpg);
+	background-image: url(../img/fondopantalla9.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
 	height: auto;
-
 }
+.contenido{
+	background-color: rgb(37, 19, 10, 0.6);
+}
+
 .miFondo .col{
 background-color:rgb(37, 19, 10, 0.9) ;
 }
